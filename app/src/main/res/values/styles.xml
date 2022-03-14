@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/gradStart</item>
+        <item name="colorPrimaryDark">@color/gradEnd</item>
+        <item name="colorAccent">@color/gradEnd</item>
+        <!--     <item name="windowNoTitle">true</item>
+            <item name="windowActionBar">false</item> -->
+            <item name="android:windowTranslucentStatus" tools:ignore="NewApi">true</item>
+            <item name="android:windowTranslucentNavigation" tools:targetApi="kitkat">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        </style>
+
+
+    </resources>

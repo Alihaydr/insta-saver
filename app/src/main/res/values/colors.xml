@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#bc2a8d</color>
+    <color name="gradStart">#8a3ab9</color> <!-- followingbg !-->
+    <color name="followersBg">#bc2a8d</color>
+    <color name="followingBg">#8a3ab9</color>
+     <color name="trans">#00000000</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

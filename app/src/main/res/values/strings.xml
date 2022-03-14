@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Instagram Profile Saver</string>
+    <string name="username">  Username</string>
+    <string name="name">Full Name</string>
+    <string name="newuser">@ username</string>
+    <string name="nbfolowers">-----</string>
+    <string name="following">followers</string>
+    <string name="nbfollowing">-----</string>
+    <string name="following2">following</string>
+
+</resources>
